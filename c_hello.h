@@ -1,1 +1,1 @@
-void c_hello();
+int c_hello();
