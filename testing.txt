@@ -1,0 +1,29 @@
+What is ChatGPT?
+ChatGPT is a natural language processing tool driven by AI technology that allows you to have human-like conversations and much more with the chatbot. The language model can answer questions and assist you with tasks like composing emails, essays, and code.
+
+Also: How does ChatGPT work?
+
+Usage is currently open to the public free of charge because ChatGPT is in its research and feedback-collection phase. As of Feb. 1, there is also a paid subscription version called ChatGPT Plus. 
+
+Who made ChatGPT?
+ChatGPT was created by OpenAI, an AI and research company. The company launched ChatGPT on Nov. 30, 2022. 
+
+Also: What is GPT-4? Here's everything you need to know
+
+OpenAI is also responsible for creating DALL-E-2, a popular AI art generator, and Whisper, an automatic speech recognition system. 
+
+How big a deal is ChatGPT?
+It's made a big splash. 
+
+"ChatGPT is scary good. We are not far from dangerously strong AI," said Elon Musk, who was one of the founders of OpenAI before leaving. Sam Altman, OpenAI's chief, said on Twitter that ChatGPT had more than 1 million users in the first five days after it launched. 
+
+According to an analysis by Swiss bank UBS, ChatGPT is the fastest-growing app of all time. The analysis estimates that ChatGPT had 100 million active users in January, only two months after its launch. For comparison, it took nine months for TikTok to reach 100 million. 
+
+For full story read: ChatGPT just became the fastest-growing 'app' of all time
+
+How can you access ChatGPT?
+You can access ChatGPT simply by visiting chat.openai.com and creating an OpenAI account. 
+
+Once you sign in, you can start chatting away with ChatGPT. Get your conversation started by asking a question. Because ChatGPT is still in its research stage, it is free to use and you can ask as many questions as you'd like.
+
+For step-by-step instructions, check out ZDNET's guide on how to start using ChatGPT. 
